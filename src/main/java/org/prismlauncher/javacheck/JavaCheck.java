@@ -11,7 +11,7 @@ public final class JavaCheck {
 		boolean missingSome = false;
 
 		for (final String property : args) {
-			String propertyValue = System.getProperty(property);
+			final String propertyValue = System.getProperty(property);
 
 			if (propertyValue == null) {
 				missingSome = true;
