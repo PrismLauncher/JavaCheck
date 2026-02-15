@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 TheKodeToad
+
+SPDX-License-Identifier: CC0-1.0
+-->
+
 # JavaCheck
 A very simple program to print provided system properties.
 
