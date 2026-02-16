@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2024 TheKodeToad
+//
+// SPDX-License-Identifier: CC0-1.0
+
 package org.prismlauncher.javacheck;
 
 public final class JavaCheck {
